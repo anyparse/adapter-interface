@@ -1,0 +1,17 @@
+{
+    "name": "anyparse/adapter-interface",
+    "description": "Anyparse adapter interface",
+    "authors": [
+        {
+            "name": "Alexey Chernousov",
+            "email": "iamsaint@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Anyparse\\": "src"
+        }
+    }
+}
